@@ -1,0 +1,14 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Introduction to http server node js - NNU ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joaqra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
